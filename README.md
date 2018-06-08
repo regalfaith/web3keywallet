@@ -1,3 +1,7 @@
-# Web3.js for KeyWallet
+# Ethereum Javascript API for KeyWallet
+<br><br>
 
-Ethereum Javascript API for KeyWallet
+## Installation
+``
+yarn install
+``
