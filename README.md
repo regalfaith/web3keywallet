@@ -1,7 +1,7 @@
-# Ethereum Javascript API for KeyWallet
-<br><br>
+#Ethereum Javascript API for KeyWallet
+<br>
 
-## Installation
+##1. Installation
 ``
 yarn install
 ``
