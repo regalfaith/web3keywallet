@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Web3 Javascript API for KeyWallet",
   "main": "index.js",
-  "repository": "https://github.com/regalfaith/web3keywallet.git",
+  "repository": "https://github.com/regalfaith/web3keywallet.js.git",
   "author": "Byeongcheol Yoo",
   "license": "MIT",
   "dependencies": {
