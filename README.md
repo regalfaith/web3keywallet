@@ -2,6 +2,6 @@
 <br>
 
 ## 1. Installation
-``
+```
 yarn install
-``
+```
